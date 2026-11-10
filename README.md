@@ -8,3 +8,7 @@ download le [appimage](https://github.com/epicneco/jewsploit/releases/latest)
 chmod +x = JewSploit.AppImage
 ./JewSploit.AppImage
 ```
+### OR download with el magnet linkito
+```
+magnet:?xt=urn:btih:a69bbbdaf029c6a5caee42b7f456fab2473ce69c&dn=jewsploit&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Ftracker.blackunicorn.xyz%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969
+```
